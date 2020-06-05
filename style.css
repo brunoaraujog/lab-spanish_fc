@@ -1,0 +1,64 @@
+/* * {
+    border: #1B141B;
+    border-style: solid;
+    border-width: 5px;
+} */
+body {
+    font-family: Arvo, sans-serif; 
+    text-align: justify;
+    colour: #1B141B;
+    background: #931013;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-indent: 40px; 
+  }
+  .headerish {
+      text-align: center;
+  }
+  p {
+    font-size: 20px;
+    font-weight: 100
+  }
+  h2 {
+    font-size: 28px;
+    font-weight: 600
+  }
+  h3 {
+    font-size: 20px;
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  #last-results-h3 {
+    text-align: center;
+  }
+  .last-results {
+    text-align: center;
+  }
+  
+  .coaching-staff {
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    text-indent: 25px;
+  }
+  ul {
+    list-style: none;
+    text-align: center;
+  }
+  .most-capped-players {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+  }
+  #active {
+    font-weight: bold;
+  }
+  a {
+    color: #FFB600;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .coaches {
+    font-style: italic;
+  }
